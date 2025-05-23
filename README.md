@@ -4,9 +4,11 @@
 
 *NAME*: UZMA KHANUM
 
-*INTERN ID*: 
+*INTERN ID*: CT08DK36
 
 *DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*:8 WEEKS
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
@@ -39,6 +41,8 @@ This project focuses on API integration and data visualization using Python. It 
 The main objective of this task is to demonstrate practical skills in working with public APIs and visualizing real-time data. It helps showcase how data can be gathered, processed, and presented effectively using Python. This kind of project is useful in data analysis, reporting, and creating dashboards for public datasets.
 
 ## Output
+
+![Image](https://github.com/user-attachments/assets/9e293b2e-ad82-4433-95b5-ba6aba06cf31)
 
 
 
