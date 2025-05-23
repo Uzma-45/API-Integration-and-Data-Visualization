@@ -40,5 +40,5 @@ The main objective of this task is to demonstrate practical skills in working wi
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/1db33b94-0a1f-4f3c-b6f8-edb58f28a776)
+
 
