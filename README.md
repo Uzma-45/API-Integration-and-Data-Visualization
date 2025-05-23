@@ -34,15 +34,9 @@ This project focuses on API integration and data visualization using Python. It 
   
 - Visualizes daily new COVID-19 cases using a line graph
 
-## 🚀 How to Run
+## 🎯 Purpose of the Project
 
-1. Clone this repository:
-
-   ```bash
-   
-   git clone https://github.com/yourusername/repo-name.git
-   
-   cd repo-name
+The main objective of this task is to demonstrate practical skills in working with public APIs and visualizing real-time data. It helps showcase how data can be gathered, processed, and presented effectively using Python. This kind of project is useful in data analysis, reporting, and creating dashboards for public datasets.
 
 
 
