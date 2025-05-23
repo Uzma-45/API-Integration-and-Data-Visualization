@@ -38,5 +38,7 @@ This project focuses on API integration and data visualization using Python. It 
 
 The main objective of this task is to demonstrate practical skills in working with public APIs and visualizing real-time data. It helps showcase how data can be gathered, processed, and presented effectively using Python. This kind of project is useful in data analysis, reporting, and creating dashboards for public datasets.
 
+## Output
 
+![Image](https://github.com/user-attachments/assets/1db33b94-0a1f-4f3c-b6f8-edb58f28a776)
 
